@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/pratiksharm/SimpleAnimatedClock">
-    <img src="clock.gif" alt="Logo" width="80" height="80">
+    <img src="clock.gif" alt="Logo" width="80" height="200">
   </a>
 
   <h3 align="center">Simple Animated Clock with react-native</h3>
