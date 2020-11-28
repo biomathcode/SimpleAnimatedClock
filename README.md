@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/pratiksharm/SimpleAnimatedClock">
-    <img src="clock.gif" alt="Logo" width="80" height="200">
+    <img src="clock.gif" alt="Logo" width="360" height="640">
   </a>
 
   <h3 align="center">Simple Animated Clock with react-native</h3>
@@ -74,7 +74,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+### Disclaimer this project is not mine. I have made it with the help of a youtube video [youtube-tutorial](https://www.youtube.com/watch?v=YBci4HFRQ_)
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 The project is build with the help of 
@@ -92,7 +92,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [react](https://reactjs.org)
 * [react-native](https://reactnative.dev)
-* [youtube-tutorial](https://github.com/pratiksharm/SimpleAnimatedClock)
+* [youtube-tutorial](https://www.youtube.com/watch?v=YBci4HFRQ_)
 
 
 
