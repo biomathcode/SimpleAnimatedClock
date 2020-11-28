@@ -15,9 +15,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -150,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Pratik sharma - [@BioMathCode](https://twitter.com/BioMathCode) - email@example.com
+Pratik sharma - [@BioMathCode](https://twitter.com/BioMathCode) 
 
 Project Link: [https://github.com/BioMathCode/SimpleAnimatedClock](https://github.com/BioMathCode/SimpleAnimatedClock)
 
