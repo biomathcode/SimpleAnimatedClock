@@ -75,7 +75,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ### Disclaimer this project is not mine. I have made it with the help of a youtube video [youtube-tutorial](https://www.youtube.com/watch?v=YBci4HFRQ_)
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 The project is build with the help of 
 
@@ -151,7 +150,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@BioMathCode](https://twitter.com/BioMathCode) - email@example.com
+Pratik sharma - [@BioMathCode](https://twitter.com/BioMathCode) - email@example.com
 
 Project Link: [https://github.com/BioMathCode/SimpleAnimatedClock](https://github.com/BioMathCode/SimpleAnimatedClock)
 
@@ -159,7 +158,7 @@ Project Link: [https://github.com/BioMathCode/SimpleAnimatedClock](https://githu
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [youtube-tutorial](https://www.youtube.com/watch?v=YBci4HFRQ_)
 
 
 
